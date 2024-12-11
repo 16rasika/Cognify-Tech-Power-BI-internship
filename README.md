@@ -12,6 +12,8 @@ Status: Completed on 11.12.2024
 # Task 2 Gender-Based Analysis
 Objective: Analyze and visualize genderbased differences in investment preferences.
 
+Status : Completed 11.12.2024
+
 # Task 3 Objective Analysis
 Objective: Analyze the relationship between savings objectives and investment choices.
 
