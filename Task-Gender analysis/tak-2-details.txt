@@ -1,0 +1,11 @@
+Task -2 
+
+1.Created 2 measures to see the count
+     Female = COUNTROWS(FILTER('Data_set 2','Data_set 2'[gender]= "Female"))
+     Male = COUNTROWS(FILTER('Data_set 2','Data_set 2'[gender]= "Male"))
+
+2. 2 stacked bar chart with count and sum of investment by gender.
+
+3.Made 2 cards for female and male count.
+
+4. Made Text box with key insights.
