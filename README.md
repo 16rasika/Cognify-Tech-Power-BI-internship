@@ -6,6 +6,7 @@ During my internship at Cognifyz Technologies, I was assigned 7 tasks under the 
 
 # Task 1 Data Exploration and Summary
 Objective: Understand and summarize key statistics in the dataset.
+Status: Completed on 11.12.2024
 
 # Task 2 Gender-Based Analysis
 Objective: Analyze and visualize genderbased differences in investment preferences.
