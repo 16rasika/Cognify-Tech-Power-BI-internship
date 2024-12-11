@@ -1,0 +1,21 @@
+Cognify Power-Bi Internship
+
+Task-1
+
+1. Imported data set.
+
+2. Checked null values & data type of each column if any when transforming the data.
+
+3.Data is good to go with 0 null values.
+
+4. To Compute average age,Created measure using dax
+         Avg.Age = AVERAGE('Data_set 2'[age])
+5. To percentage of individuals with various investments
+    trying it  with bar chart but as percentage will be clear mentioned in donut chart i will go for donut chart.
+6. For common savings objectives :created new measure
+               Investment Avenue = COUNTROWS(FILTER('Data_set 2','Data_set 2'[Investment_Avenues]="Yes"))
+               No Investment Avenue = COUNTROWS(FILTER('Data_set 2','Data_set 2'[Investment_Avenues]="No"))
+7. For common savings objectives Created new measure 
+          Total Debentures = SUM('Data_set 2'[Debentures])
+          Total Equity Market = SUM('Data_set 2'[Equity_Market])
+          Total Fixed Deposit = SUM('Data_set 2'[Fixed_Deposits])
