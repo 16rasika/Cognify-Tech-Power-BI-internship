@@ -17,7 +17,7 @@ Objective: Analyze and visualize genderbased differences in investment preferenc
 
 Status : Completed 11.12.2024
 
-
+[dashbord-task-2.pdf](https://github.com/user-attachments/files/18149561/dashbord-task-2.pdf)
 
 # Task 3 Objective Analysis
 Objective: Analyze the relationship between savings objectives and investment choices.
