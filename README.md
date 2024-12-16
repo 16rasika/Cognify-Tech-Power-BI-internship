@@ -9,6 +9,9 @@ Objective: Understand and summarize key statistics in the dataset.
 
 Status: Completed on 11.12.2024
 
+[dashbord-task-1.pdf](https://github.com/user-attachments/files/18149536/dashbord-task-1.pdf)
+
+
 # Task 2 Gender-Based Analysis
 Objective: Analyze and visualize genderbased differences in investment preferences.
 
