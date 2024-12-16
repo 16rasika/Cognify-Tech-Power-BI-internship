@@ -24,6 +24,8 @@ Objective: Analyze the relationship between savings objectives and investment ch
 
 Staus: Completed on 16.12.2024
 
+[dashbord-task-3.pdf](https://github.com/user-attachments/files/18149571/dashbord-task-3.pdf)
+
 # Task 4 Investment Duration and Frequency
 Objective: Analyze investment durations and monitoring frequencies.
 
