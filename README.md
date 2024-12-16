@@ -17,8 +17,12 @@ Objective: Analyze and visualize genderbased differences in investment preferenc
 
 Status : Completed 11.12.2024
 
+
+
 # Task 3 Objective Analysis
 Objective: Analyze the relationship between savings objectives and investment choices.
+
+Staus: Completed on 16.12.2024
 
 # Task 4 Investment Duration and Frequency
 Objective: Analyze investment durations and monitoring frequencies.
