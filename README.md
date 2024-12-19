@@ -29,6 +29,8 @@ Staus: Completed on 16.12.2024
 # Task 4 Investment Duration and Frequency
 Objective: Analyze investment durations and monitoring frequencies.
 
+Status: Completed on 19.12.2024
+
 # Task 5 Reason for Investment and Source of Information
 Objective: Analyze and visualize the reasons for investment
 
