@@ -31,6 +31,8 @@ Objective: Analyze investment durations and monitoring frequencies.
 
 Status: Completed on 19.12.2024
 
+[dashbord-task-4.pdf](https://github.com/user-attachments/files/18195615/dashbord-task-4.pdf)
+
 # Task 5 Reason for Investment and Source of Information
 Objective: Analyze and visualize the reasons for investment
 
