@@ -38,7 +38,7 @@ Objective: Analyze and visualize the reasons for investment
 
 Status: Completed on 27.12.2024
 
-
+[dashbord-task-5.pdf](https://github.com/user-attachments/files/18263859/dashbord-task-5.pdf)
 
 # Task 6 Source of Information
 Objective: Analyze the sources from which individuals gather investment information.
