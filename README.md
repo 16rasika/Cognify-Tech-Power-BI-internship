@@ -36,6 +36,10 @@ Status: Completed on 19.12.2024
 # Task 5 Reason for Investment and Source of Information
 Objective: Analyze and visualize the reasons for investment
 
+Status: Completed on 27.12.2024
+
+
+
 # Task 6 Source of Information
 Objective: Analyze the sources from which individuals gather investment information.
 
