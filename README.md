@@ -45,6 +45,8 @@ Objective: Analyze the sources from which individuals gather investment informat
 
 Status: Completed on 29.12.2024
 
+[dashbord-task-6.pdf](https://github.com/user-attachments/files/18285802/dashbord-task-6.pdf)
+
 
 # Task 7 Combine All Insights into a Dashboard
 Objective: To integrate all insights from previous tasks into a comprehensive dashboard.
