@@ -43,5 +43,8 @@ Status: Completed on 27.12.2024
 # Task 6 Source of Information
 Objective: Analyze the sources from which individuals gather investment information.
 
+Status: Completed on 29.12.2024
+
+
 # Task 7 Combine All Insights into a Dashboard
 Objective: To integrate all insights from previous tasks into a comprehensive dashboard.
