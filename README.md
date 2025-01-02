@@ -81,6 +81,8 @@ Output: A consolidated dashboard providing a holistic view of the data insights.
 
 Status: Completed on 02.01.2025
 
+[dashbord-task-1.pdf](https://github.com/user-attachments/files/18292233/dashbord-task-1.pdf)
+
 ## Conclusion
 Throughout these tasks, I developed a robust understanding of data visualization and analysis using Power BI. 
 Each task contributed to honing my skills in data handling, exploration, and dashboard creation, culminating in a comprehensive view of the dataset.
