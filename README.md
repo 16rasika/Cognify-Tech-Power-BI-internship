@@ -79,7 +79,7 @@ Description: Aggregated findings from tasks 1-6 into a unified, interactive dash
 
 Output: A consolidated dashboard providing a holistic view of the data insights.
 
-Status: Working on it
+Status: Completed on 02.01.2025
 
 ## Conclusion
 Throughout these tasks, I developed a robust understanding of data visualization and analysis using Power BI. 
